@@ -1,0 +1,12 @@
+Map format (HEX)
+AABBCCDDEEFFGGHHXXYYXXYYXXYYXXYY...
+AA: Map Pallete number
+BB: Map Size X
+CC: Map Size Y
+DD: RESERVED
+EE: RESERVED
+FF: RESERVED
+GG: RESERVED
+HH: RESERVED
+XX: Sprite X position on pallete
+YY: Sprite Y position on pallete
